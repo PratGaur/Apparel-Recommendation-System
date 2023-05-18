@@ -1,4 +1,4 @@
-# Apparel Reccommendation System
+# Apparel Recommendation System
 Explanation of the problem statement and solution:
 
 A user is shown four pictures in a window from a dataset of apparel images. They provide feedback on whether they liked or disliked the individual photos in the window. After taking the feedback, we need to generate four new pictures from the dataset that they are likelier to like.
